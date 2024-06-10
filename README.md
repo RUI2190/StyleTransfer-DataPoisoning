@@ -1,6 +1,6 @@
 # StyleTransfer-DataPoisoning
 
-DSC 253 Project
+DSC 253 Advanced Data-Driven Text Mining Project
 
 Collaborators:
 * Jiongli Zhu
